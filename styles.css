@@ -1,0 +1,21 @@
+#bibimbap {
+  background-color: green;
+  color: white;
+  font-size: 50px;
+  font-family:'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+#kalbi {
+  height: auto;
+  width: 500px;
+}
+
+#bulgogi {
+  font-size: 40px;
+  color: white;
+  background-color: red;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
